@@ -1,11 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Assalomu alaykum
+       <h1>My Name ALIII_077</h1>
+        <h1>MY Lastname NAJMIDDINOV</h1>
+         <img width="7
+         00px" src="https://www.teahub.io/photos/full/149-1498959_free-vector-wallpaper-background-ppt-abstrak-hd.jpg" alt="ALIII_077" />
     </div>
+    
   );
 }
 
